@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ChildrenPath/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ChildrenPath/MainWindow.xaml))
+* [ViewModel.cs](./CS/ChildrenPath/ViewModel.cs) (VB: [ViewModel.vb](./VB/ChildrenPath/ViewModel.vb))
+<!-- default file list end -->
 # How to bind the AccordionControl to data using the ChildrenPath property
 
 
