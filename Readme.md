@@ -11,9 +11,9 @@ This example demonstrates how to create a [WPF Accordion Control](https://docs
 
 ## Implementation Details
 
-1. Bind the accordion control to a data source. Use the [AccordionControl.ItemsSource](https://docs.devexpress.com/WPF/DevExpress.Xpf.Accordion.AccordionControl.ItemsSource) property.
+1. Bind the accordion control to a data source. To do this, use the [AccordionControl.ItemsSource](https://docs.devexpress.com/WPF/DevExpress.Xpf.Accordion.AccordionControl.ItemsSource) property.
 2. Specify the [AccordionControl.ChildrenPath](https://docs.devexpress.com/WPF/DevExpress.Xpf.Accordion.AccordionControl.ChildrenPath) property to create item hierarchy.
-3. Set the [AccordionControl.DisplayMemberPath](https://docs.devexpress.com/WPF/DevExpress.Xpf.Accordion.AccordionControl.DisplayMemberPath) property to a data field with strings to display display them in item headers.
+3. Set the [AccordionControl.DisplayMemberPath](https://docs.devexpress.com/WPF/DevExpress.Xpf.Accordion.AccordionControl.DisplayMemberPath) property to a data field with strings to display them in item headers.
 
 
 ## Files to Review
