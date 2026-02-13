@@ -32,7 +32,7 @@ This example demonstrates how to create a [WPF Accordion Control](https://docs
 
 * [WPF Accordion - Bind to Data (HierarchicalDataTemplate)](https://github.com/DevExpress-Examples/wpf-accordion-bind-to-data-hierarchicaldatatemplate)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-accordion-bind-to-data-using-childrenpath&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-accordion-bind-to-data-using-childrenpath&~~~was_helpful=no)
 
